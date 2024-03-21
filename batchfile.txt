@@ -1,0 +1,7 @@
+pwd
+ls 
+cd .. 
+pwd
+echo whats up people!
+
+

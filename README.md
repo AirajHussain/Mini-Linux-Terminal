@@ -7,8 +7,8 @@ The mini linux terminal, is considered as a simple shell, that displays how to a
 2. Build the project using the makefile : make
 3. Run the mini linux terminal: ./myshell
 
-#Demo
+# Demo
 
-###Starting Prompt 
+### Starting Prompt 
 
 <img src="https://github.com/AirajHussain/Mini-Linux-Terminal/blob/main/images/startprompt.png" alt="login_page" width="500"/>

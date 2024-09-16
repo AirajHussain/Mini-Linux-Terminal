@@ -12,3 +12,7 @@ The mini linux terminal, is considered as a simple shell, that displays how to a
 ### Starting Prompt 
 
 <img src="https://github.com/AirajHussain/Mini-Linux-Terminal/blob/main/images/startprompt.png" alt="login_page" width="500"/>
+
+### Dir- Displaying contents of current directory in ascending order alphabetically
+
+<img src="https://github.com/AirajHussain/Mini-Linux-Terminal/blob/main/images/dir.png" alt="login_page" width="500"/>
